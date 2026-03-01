@@ -1,9 +1,6 @@
-## Hi there 👋
 
-<!--
-**sanjoydas087/sanjoydas087** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-# Hi, I'm Sanjoy Das 👋
+##Hi, I'm Sanjoy Das 👋
 
 🎯 Aspiring Data Analyst  
 📊 Power BI | SQL | Python | Excel  
