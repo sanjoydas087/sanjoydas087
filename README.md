@@ -1,6 +1,6 @@
 
 
-##Hi, I'm Sanjoy Das 👋
+## Hi, I'm Sanjoy Das 👋
 
 🎯 Aspiring Data Analyst  
 📊 Power BI | SQL | Python | Excel  
