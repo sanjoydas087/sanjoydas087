@@ -3,14 +3,42 @@
 <!--
 **sanjoydas087/sanjoydas087** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi, I'm Sanjoy Das 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Aspiring Data Analyst  
+📊 Power BI | SQL | Python | Excel  
+
+🔗 Portfolio Website: https://sanjoydas087.github.io  
+
+---
+
+## 🧠 About Me
+
+I am passionate about transforming raw data into meaningful business insights.
+I build interactive dashboards and perform data analysis using SQL and Python.
+
+---
+
+## 🛠 Technical Skills
+
+- Power BI (DAX, Data Modeling)
+- SQL (Joins, Aggregations, Subqueries)
+- Python (Pandas, NumPy)
+- Excel (Pivot Tables, Data Cleaning)
+
+---
+
+## 📂 Featured Projects
+
+### 📊 Banking Dashboard – Power BI
+Customer analytics dashboard with key insights and business impact.
+
+### 📈 Sales Performance Dashboard
+Revenue and profit analysis with KPI tracking.
+
+### 🗃 SQL Data Analysis
+Data extraction and business queries using advanced SQL.
+
+---
+
+📫 Connect with me on LinkedIn
