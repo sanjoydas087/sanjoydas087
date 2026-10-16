@@ -44,19 +44,20 @@ I am interested in opportunities where I can use data to solve business problems
 🛠️ Technical Skills
 
 Category| Technologies and Skills
-Programming| Python
-Data Analysis| Pandas, NumPy
-Databases| SQL, SELECT, JOIN, GROUP BY, UNION
-Business Intelligence| Power BI, DAX, Power Query, Data Modelling
-Spreadsheets| Advanced Excel, Pivot Tables, Dashboards
-Data Visualization| Plotly, Matplotlib, Seaborn
-Dashboard Development| Streamlit, Power BI
-Machine Learning| Random Forest, Gradient Boosting, Logistic Regression, K-Means, PCA
-Anomaly Detection| Isolation Forest, Autoencoders
-Time-Series Forecasting| ARIMA, SARIMA, Holt-Winters, Seasonal Decomposition
-Statistics| Hypothesis Testing, Correlation Analysis, Confidence Intervals, ANOVA
-Model Evaluation| RMSE, MAE, MAPE, Accuracy, ROC-AUC, Average Precision
-Analytics Practices| Data Cleaning, EDA, Feature Engineering, KPI Analysis, Customer Segmentation, Executive Reporting
+
+-Programming| Python
+-Data Analysis| Pandas, NumPy
+-Databases| SQL, SELECT, JOIN, GROUP BY, UNION
+-Business Intelligence| Power BI, DAX, Power Query, Data Modelling
+-Spreadsheets| Advanced Excel, Pivot Tables, Dashboards
+-Data Visualization| Plotly, Matplotlib, Seaborn
+-Dashboard Development| Streamlit, Power BI
+-Machine Learning| Random Forest, Gradient Boosting, Logistic Regression, K-Means
+-Anomaly Detection| Isolation Forest, Autoencoders
+-Time-Series Forecasting| ARIMA, SARIMA, Holt-Winters, Seasonal Decomposition
+-Statistics| Hypothesis Testing, Correlation Analysis, Confidence Intervals, ANOVA
+-Model Evaluation| RMSE, MAE, MAPE, Accuracy, ROC-AUC, Average Precision
+-Analytics Practices| Data Cleaning, EDA, Feature Engineering, KPI Analysis, Customer Segmentation, Executive Reporting
 
 ---
 
@@ -193,7 +194,7 @@ June 2025 – Present
 
 - Monitor process parameters of a 180 TPH CFBC boiler using a Distributed Control System (DCS).
 - Analyze operational and performance data to monitor efficiency trends and identify unusual patterns.
-- Prepare structured reports and summary dashboards to support operational decision-making.
+  
 
 ---
 
