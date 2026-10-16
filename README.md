@@ -41,24 +41,24 @@ I am interested in opportunities where I can use data to solve business problems
 
 ---
 
-🛠️ Technical Skills
+## 🛠️ Technical Skills
 
-Category| Technologies and Skills
-
--Programming| Python
--Data Analysis| Pandas, NumPy
--Databases| SQL, SELECT, JOIN, GROUP BY, UNION
--Business Intelligence| Power BI, DAX, Power Query, Data Modelling
--Spreadsheets| Advanced Excel, Pivot Tables, Dashboards
--Data Visualization| Plotly, Matplotlib, Seaborn
--Dashboard Development| Streamlit, Power BI
--Machine Learning| Random Forest, Gradient Boosting, Logistic Regression, K-Means
--Anomaly Detection| Isolation Forest, Autoencoders
--Time-Series Forecasting| ARIMA, SARIMA, Holt-Winters, Seasonal Decomposition
--Statistics| Hypothesis Testing, Correlation Analysis, Confidence Intervals, ANOVA
--Model Evaluation| RMSE, MAE, MAPE, Accuracy, ROC-AUC, Average Precision
--Analytics Practices| Data Cleaning, EDA, Feature Engineering, KPI Analysis, Customer Segmentation, Executive Reporting
-
+| Category | Skills |
+|---|---|
+| **Programming** | Python, Pandas, NumPy |
+| **SQL** | SELECT, WHERE, JOIN, GROUP BY, UNION, Aggregate Functions |
+| **Data Visualization** | Power BI, Matplotlib, Seaborn, Plotly |
+| **Business Intelligence** | Power BI, DAX, Power Query, Data Modeling, KPI Dashboards |
+| **Excel** | Advanced Excel, Pivot Tables, Lookup Functions, Data Cleaning |
+| **Machine Learning** | Linear Regression, Logistic Regression, Random Forest, Gradient Boosting, K-Means Clustering |
+| **Anomaly Detection** | Isolation Forest, Autoencoder, Anomaly Scoring |
+| **Time Series Forecasting** | ARIMA, SARIMA, Holt-Winters, Seasonal Decomposition, Walk-Forward Validation |
+| **Statistics** | Descriptive Statistics, Hypothesis Testing, Correlation Analysis, Confidence Intervals |
+| **Model Evaluation** | RMSE, MAE, MAPE, Accuracy, ROC-AUC, Average Precision |
+| **Data Analysis** | Data Cleaning, Exploratory Data Analysis (EDA), Feature Engineering, Trend Analysis |
+| **Dashboard Development** | Streamlit, Plotly, Interactive Dashboards, Executive Reporting |
+| **Deep Learning** | TensorFlow, Keras, Neural Networks |
+| **Tools** | Jupyter Notebook, VS Code, Git, GitHub |
 ---
 
 🚀 Featured Projects
