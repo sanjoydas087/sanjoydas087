@@ -8,10 +8,13 @@ I transform raw data into meaningful insights, interactive dashboards, and predi
 I combine hands-on experience in Python, SQL, Power BI, statistical analysis, and machine learning with an industrial background in process operations and performance monitoring.
 
 📍 Kulti, West Bengal, India
+
 🎯 Career Goal: Data Analyst | Business Intelligence Analyst | Junior Data Scientist
 
 "LinkedIn" (https://www.linkedin.com/in/dataanalyticssanjoy/) •
+
 "Portfolio" (https://sanjoydas087.github.io) 
+
 "Email Me" (mailto:sanjoydas087@gmail.com)
 
 ---
